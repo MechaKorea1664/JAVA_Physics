@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Field2
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Field2\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Field2()
+comment2.params=
+comment2.target=void\ portal()
+comment3.params=
+comment3.target=void\ getWH()
+comment4.params=
+comment4.target=MainCharacter\ getMainCharacter()
+comment5.params=
+comment5.target=int\ getGHeight()
+comment6.params=
+comment6.target=void\ sceneLoad()
+numComments=7

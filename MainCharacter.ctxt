@@ -1,0 +1,35 @@
+#BlueJ class context
+comment0.target=MainCharacter
+comment0.text=\r\n\ Main\ character,\ animations,\ movement,\ more\ keystroke\ detection/signals.\ Attach\ hitbox,\ sound.\r\n\ \r\n\ Kevin\ \r\n\ version\:\ 11022021\r\n
+comment1.params=
+comment1.target=void\ act()
+comment10.params=
+comment10.target=void\ movement()
+comment11.params=
+comment11.target=void\ jump()
+comment11.text=public\ void\ gravity()\ //constant\ gravitatinoal\ force\ \r\n\ (I\ don't\ think\ i\ need\ this)\ <---\ yep\r\n\ (I\ don't\ need\ this,\ but\ I'm\ still\ keeping\ it\ here\ for\ future\ reference\ /\ and\ so\ that\ I\ dont\ write\ the\ same\ code\ again.)\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ getXYAxis();\r\n\ \ \ \ \ \ \ \ vy\ +\=\ g;\r\n\ \ \ \ \ \ \ \ y\ +\=\ vy;\r\n\ \ \ \ }\r\n
+comment12.params=
+comment12.target=void\ calcVY()
+comment13.params=
+comment13.target=void\ groundCollisionCheck()
+comment14.params=
+comment14.target=void\ wallCollisionCheck()
+comment15.params=
+comment15.target=void\ movementUpdate()
+comment2.params=Field1
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=
+comment3.target=void\ vTest()
+comment4.params=
+comment4.target=void\ animationUpdate()
+comment5.params=
+comment5.target=void\ walkLeft()
+comment6.params=
+comment6.target=void\ walkRight()
+comment7.params=
+comment7.target=void\ standBy()
+comment8.params=
+comment8.target=void\ getXYAxis()
+comment9.params=
+comment9.target=void\ calcVX()
+numComments=16

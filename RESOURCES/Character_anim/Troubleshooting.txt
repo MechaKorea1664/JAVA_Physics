@@ -1,0 +1,1 @@
+If a gif won't load, check if that gif is ALSO present in the CompSci_Proj/images folder.
